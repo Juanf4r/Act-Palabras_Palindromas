@@ -33,7 +33,7 @@ int main(void)
     }
     else 
     {
-        std::cout << "\n\nLa palabra " << palabra << " es palindroma\n\n";
+        std::cout << "\n\nLa palabra " << palabra << " no es palindroma\n\n";
     }
     system("pause");
     return 0;
